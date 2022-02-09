@@ -35,7 +35,6 @@ body{
     margin-bottom: 20px;
     overflow: hidden;
 
-    background-color: brown;
     border-radius: 15px;
 }
 
@@ -51,7 +50,7 @@ body{
 .qr-title{
     font-size: 1.7em;
     font-weight: 700;
-
+    
     color: var(--dark-blue);
 }
 
